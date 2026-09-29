@@ -4,5 +4,5 @@ main_print_v1.py
 *.avi
 
 # 안올리는 폴더
-.venv/
-.vscode/
+.venv
+.vscode
